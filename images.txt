@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:latest
 redis:latest
+openjdk:17
+wordpress:latest
