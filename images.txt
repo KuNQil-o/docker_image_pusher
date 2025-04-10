@@ -8,3 +8,4 @@ mysql:latest
 redis:latest
 openjdk:17
 wordpress:latest
+docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest
